@@ -1,10 +1,10 @@
 # 👋 你好，我是 Neike — AI 应用工程师
 
-> 多模型 API 集成 · Token 成本控制 · 提示词降本增效**
+> **多模型 API 集成 · Token 成本控制 · 提示词降本增效**
 
 ---
 
-### 🔗 [🚀 立即访问我的在线作品站](https://github.com/Neike2024/neike.github.io/blob/main/index.html)
+### 🔗 [🚀 立即访问我的在线作品站](https://neike.github.io)
 
 ---
 
@@ -32,9 +32,8 @@
 ---
 
 ### 📄 简历下载
-[点击下载我的简历 PDF](简历.pdf)  
+[点击下载我的简历 PDF](简历.pdf) 
 
 ---
-
 
 _本仓库同时部署为 GitHub Pages，欢迎直接访问上方链接查看完整交互效果。_
